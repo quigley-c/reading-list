@@ -10,3 +10,5 @@ The Pragmatic Programmer - Andrew Hunt, David Thomas
 Inclusive Design Patterns - Heydon Pickering
 Engineers' Survival Guide - Merih Taze
 
+## Finished
+Head First Design Patterns - Eric Freeman
