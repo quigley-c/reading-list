@@ -1,7 +1,7 @@
 # Reading List
-Clean Code - Robert C. Martin
 
 ## Essentials
+Clean Code - Robert C. Martin
 Working Effectively with Legacy Code - Michael C. Feathers
 A Philosophy of Software Design - John Ousterhout
 The Pragmatic Programmer - Andrew Hunt, David Thomas
